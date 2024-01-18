@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exotisch</title>
+<style>
+h1{text-align : center}
+h2{text-align : center}
+h3{text-align : center}
+p{text-align : center}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+p{font-style: oblique;}
+div.container{
+ text-align: center;
+}
+ol.myUL {
+    display: inline-block;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+    <img src="Web Design Images/porsche-and-mercedes-wished-bmw-on-its-100th-birthday-in-the-most-classy-way-980x457-1457612252.png" width="800" height="350" class="center">
+<div class ="container">
+    <ol class="myUL">
+    <li><a href="https://www.porsche.com/usa/" target="_blank">Porsche       </a></li>
+    <li><a href="https://www.bmwusa.com/" target="_blank">BMW       </a></li>
+    <li><a href="https://www.mbusa.com/en/home" target="_blank">Mercedes</a></li>
+    </ol>
+</div>
+    <h3>The art of German motorclass has a unique architecture in three major companies. Many of these companies came out of the second world war and assisted in the economical rebirth of Germany. The Notable Karl Benz developed the four-stroke internal combustion engine in 1887. This invention marked the beginning of the classical art of automobiles </h3>
+    <table>
+        <tr>
+            <img src="Web Design Images/mercedes.table.jpeg" width="473" height="300">  
+        </tr>
+        <tr>
+            <img src="Web Design Images/bmw.table.jpeg" width="473" height="300">
+        </tr>
+        <tr>
+            <img src="Web Design Images/porsche.table.jpeg" width="473" height="300">
+        </tr>
+        
+    </table>
+        <h2>Mercedes</h2>
+            <p>Started by a innovative man named Karl Benz in the late 19th century, Mercedes has earned a reputation of being a classy yet althetic sports car. While producing Li mon and F1 cars, mercedes still produces top tier road legal cars. The most notable of their brand is the famous AMG brand.</p>
+        <h2>BMW</h2>
+            <p>Created during WW1 by four men, the two most notable being Karl Rapp and Gustav Otto. Beautifuly aging through the years BMW has shown it's expertice in the architecture and ability to design a good looking car. The most famous of these is the early 90's E30.</p>
+    <h2>Porsche</h2>
+        <p>Ferdinand Porsche started his branding of automobiles well after Karl Rapp and Benz. But despite this time difference, Porsche has proven to provide active competition against other German motor companies. Each Porsche has specific features and aspects that reflect the enginuity of each design. The most notable of these designs is the famous Porsche 911 GT3.</p>
+    <br>
+    <br>
+    <p>Contact: Liam Blair   -   484-727-8025   -   getinfo@gmail.com</p>
+</body>
+
+</html>
